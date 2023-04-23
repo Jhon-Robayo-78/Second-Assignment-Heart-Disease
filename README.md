@@ -2,7 +2,7 @@
 
 Estudiantes:
 
-*Jonathan Javier Robayo Bossio*
+*Jonathan Javier Robayo Bossio* - 
 *Carlos David Echeverri Marulanda*
 
 ##### Notas o consideraciones:
